@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Classes")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("HP Inc.")]
+[assembly: AssemblyCompany("Mohammed Bilal Habib")]
 [assembly: AssemblyProduct("Classes")]
-[assembly: AssemblyCopyright("Copyright © HP Inc. 2018")]
+[assembly: AssemblyCopyright("Mohammed Bilal Habib")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
